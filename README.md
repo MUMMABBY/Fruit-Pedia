@@ -18,7 +18,7 @@ A simple Flask application that provides information about various fruits. The a
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/fruit-encyclopedia.git
+git clone https://github.com/your-username/fruit-Pedia.git
 cd fruit-encyclopedia
 ```
 ### Step 2: Create a Virtual Environment (Optional)
